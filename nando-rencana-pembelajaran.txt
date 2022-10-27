@@ -1,5 +1,12 @@
 rencana pembelajaran
 - Git-version control
 - basic terminal usage
-data structures dan algorithms
-SOLID,KISS dan YAGNI
+- data structures dan algorithms
+- SOLID,KISS dan YAGNI
+- github
+- licenses
+- semantic versioning
+- ssh
+- HTTP/HTTPS and APIs
+- design patterns
+- character encodings
