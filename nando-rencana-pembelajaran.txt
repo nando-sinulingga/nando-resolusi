@@ -10,3 +10,4 @@ rencana pembelajaran
 - HTTP/HTTPS and APIs
 - design patterns
 - character encodings
+alhamdulillah kalau udah selesai
