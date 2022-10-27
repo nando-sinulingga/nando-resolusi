@@ -4,4 +4,4 @@ repository untuk menyimpan rencana pembelajaran kedepannya
 - belajar melalui roadmap yang ditentukan oleh penulis orang india yang disampaikan oleh kak shandika galih seorang konten kreator yang mengupas hal hal seputar pemrograman
 - bayar utang pencapaian
 - membanggakan orangtua , nusa dan bangsa
-- masuk surga
+- membawa kejalan kebenaran
